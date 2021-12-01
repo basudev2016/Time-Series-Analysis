@@ -1,7 +1,9 @@
 # Time-Series-Analysis
 This is basic evaluation exercise on open sales dataset. Please follow the steps. Fork the Notebook and commit the solution. Share your git with solution with TA
 
-# Business Questions & Descriptive Statistics 
+Note: please use markdown for highlighting the below solutions.
+
+## Business Questions & Descriptive Statistics 
 - Which Category is Best Selling and Most Profitable?
 - What are the Best Selling and Most Profitable Sub-Category?
 - Which is the Top Selling Sub-Category?
@@ -10,29 +12,29 @@ This is basic evaluation exercise on open sales dataset. Please follow the steps
 - Which Region is the Most Profitable?
 - Which City has the Highest Number of Sales?
 
-# Fork the git
+## Fork the git
 
-# Preparing the Environment
-Jyupter Notebook
-Pandas — Data manipulation
-Matplotlib and Seaborn — Data visualisation
-Time series analyasis & Decomposition - use statsmodels library
+## Preparing the Environment
+- Jyupter Notebook
+- Pandas — Data manipulation
+- Matplotlib and Seaborn — Data visualisation
+- Time series analyasis & Decomposition - use statsmodels library
 
-# Data Cleaning
+## Data Cleaning
 - Handling Missing Values
 - Duplicate Data
 
-# Correlation betweeen 2 features
+## Correlation betweeen 2 features
 - High +ve correlation
 - High -ve correlation
 
-# Univariate Time Series Analysis - Forecasting future sales (Furniture or Office Supplies) according to shipping date using ARIMA
+## Univariate Time Series Analysis - Forecasting future sales (Furniture or Office Supplies) according to shipping date using ARIMA
 
-# Validating Forecasts
+## Validating Forecasts
 Train the model until 2016 and use year 2017 for forcasting
 
-# Visualize the forecasting
+## Visualize the forecasting
 
-# Commit the notebook
+## Commit the notebook
 
 
